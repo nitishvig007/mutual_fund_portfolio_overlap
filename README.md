@@ -8,7 +8,10 @@ Based on the names, it will return the companies portfolio overlap.
 Input File  : "data.xlsx"
 Output File  : "<<Fund_1>> - <<Fund_2>> Portfolio.xlsx"
 
-Code : main.ipynb
+Code : main.pyc  : Encrypted Code to execute the program
+
+
+
 
 
 
